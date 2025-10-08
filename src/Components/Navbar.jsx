@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, NavLink} from 'react-router';
 import lgImg from '../assets/logo.png'
-import gitImg from '../assets/Github-Logo-PNG.png'
+import { FaGithub } from 'react-icons/fa';
 
 const Navbar = () => {
     return (
@@ -53,8 +53,8 @@ const Navbar = () => {
 
             {/* 3 */}
             <div className="navbar-end">
-                <div className='flex justify-center items-center btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-lg mx-10'>
-                    <img className='h-10 w-10' src={gitImg} alt="" />
+                <div className='flex justify-center items-center btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-lg mx-10 p-6'>
+                    <FaGithub className='h-7 w-7'/>
                 <NavLink to="https://github.com/MOHITUL" className="font-bold text-white text-sm">Contribute</NavLink>
                 </div>
             </div>
