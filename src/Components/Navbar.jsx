@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, NavLink } from 'react-router';
+import { Link, NavLink} from 'react-router';
 import lgImg from '../assets/logo.png'
 import gitImg from '../assets/Github-Logo-PNG.png'
 
@@ -17,13 +17,13 @@ const Navbar = () => {
                         tabIndex={0}
                         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
                         <li className='font-semibold text-xl'>
-                            <NavLink to='/'>Home</NavLink>
+                            <NavLink to='/' className={({isActive}) => isActive ? 'text-blue-600 font-bold' : 'text-gray-600 hover:text-blue-500'}>Home</NavLink>
                         </li>
                         <li className='font-semibold text-xl'>
-                            <NavLink to='/apps'>Apps</NavLink>
+                            <NavLink to='/apps' className={({isActive}) => isActive ? 'text-[#632EE3] font-bold' : 'text-black hover:text-[#632EE3]'} >Apps</NavLink>
                         </li>
                         <li className='font-semibold text-xl'>
-                            <NavLink to='/installation'>Installation</NavLink>
+                            <NavLink to='/installation' className={({isActive}) => isActive ? 'text-[#632EE3] font-bold' : 'text-black hover:text-[#632EE3]'}>Installation</NavLink>
                         </li>
 
                     </ul>
@@ -31,7 +31,7 @@ const Navbar = () => {
                 
                 <div className='flex justify-center items-center btn-ghost mx-10'>
                     <img className='h-12 w-12' src={lgImg} alt="" />
-                    <Link to='/' className="text-xl font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent ">HERO.IO</Link>
+                    <Link to='/' className="text-2xl font-semibold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent ">HERO.IO</Link>
                 </div>
             </div>
 
@@ -40,13 +40,13 @@ const Navbar = () => {
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
                     <li className='font-semibold text-xl'>
-                        <NavLink to='/'>Home</NavLink>
+                        <NavLink to='/' className={({isActive}) => isActive ? 'text-[#632EE3] font-bold' : 'text-black hover:text-[#632EE3]'}>Home</NavLink>
                     </li>
                     <li className='font-semibold text-xl'>
-                        <NavLink to='/apps'>Apps</NavLink>
+                        <NavLink to='/apps' className={({isActive}) => isActive ? 'text-[#632EE3] font-bold' : 'text-black hover:text-[#632EE3]'}>Apps</NavLink>
                     </li>
                     <li className='font-semibold text-xl'>
-                        <NavLink to='/installation'>Installation</NavLink>
+                        <NavLink to='/installation' className={({isActive}) => isActive ? 'text-[#632EE3] font-bold' : 'text-black hover:text-[#632EE3]'}>Installation</NavLink>
                     </li>
                 </ul>
             </div>
