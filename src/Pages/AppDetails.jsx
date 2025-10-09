@@ -1,28 +1,43 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router';
 import useApps from '../Hooks/useApps';
 import { FaClock, FaComment, FaCommentDots, FaDownload, FaStar } from 'react-icons/fa';
 import { ToastContainer, toast } from 'react-toastify';
+import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 
 const AppDetails = () => {
     const { id } = useParams()
     const { apps, loading } = useApps()
     const app = apps.find(p => String(p.id) === id);
 
+
     const [installed, setInstalled] = useState(false);
 
-    if (loading) return <p>Loading...</p>
+    useEffect(() => {
+        const installedApps = JSON.parse(localStorage.getItem("installedApps")) || [];
+        const isAlreadyInstalled = installedApps.some(a => a.id == app?.id);
+        setInstalled(isAlreadyInstalled);
+    },[app])
 
-    const { image, title, companyName, downloads, ratingAvg, reviews, size } = app;
+    if (loading) return <p>Loading...</p>
+    if(!app) return <p>App not found.</p>
+
+    const { image, title, companyName, downloads, ratingAvg, reviews, size, ratings,description} = app;
 
     const handleInstall = () => {
-        setInstalled(true);
-        toast.success(`${title} installed successfully!`,{position: "top-center"})
-
+        const installedApps =JSON.parse(localStorage.getItem("installedApps")) || [];
+        if(!installedApps.some(a => a.id == app.id)){
+            installedApps.push(app);
+            localStorage.setItem("installedApps",JSON.stringify(installedApps));
+             setInstalled(true);
+        toast.success(`${title} installed successfully!`,{position: "top-center"});
+        }
+;
     }
 
     return (
-        <div className=" rounded-sm shadow-sm p-8 flex flex-col md:flex-row items-center gap-12 md:gap-30 mt-10 mx-auto max-w-7xl">
+        <div>
+            <div className=" rounded-sm shadow-sm p-8 flex flex-col md:flex-row items-center gap-12 md:gap-30 mt-10 mx-15 max-w-8xl">
 
 
             <img
@@ -77,12 +92,38 @@ const AppDetails = () => {
                 >
                     {installed ? 'Installed' : `Install Now (${size}MB)`}
                 </button>
-
-
                 <div className="border-b border-gray-200 my-4" />
-                <ToastContainer />
-
             </div>
+            
+        </div>
+
+        {/* chart */}
+        <div className='mt-15 mb-10 font-bold mx-15 text-4xl'>
+            Ratings
+        </div>
+
+         <div >
+          
+          <ResponsiveContainer width="100%" height={250}>
+            <BarChart
+              data={ratings}
+              layout="vertical" 
+              margin={{ top: 5, right: 50, left: 30, bottom: 10 }}
+            >
+              <XAxis type="number" />
+              <YAxis dataKey="name" type="category" width={100} />
+              <Tooltip />
+              <Bar dataKey="count" fill="#f97316" barSize={20} radius={[5, 5, 5, 5]} />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+
+        <div>
+            <h1 className='font-bold text-4xl mt-15 mb-10 mx-15'>Description</h1>
+            <p className='mx-15 text-lg text-justify text-gray-800 '>{description}</p>
+        </div>
+
+        <ToastContainer />
         </div>
     );
 };

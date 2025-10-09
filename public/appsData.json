@@ -1,452 +1,452 @@
 [
-  {
-    "image": "https://i.ibb.co.com/MkCjhMRc/Photo-Editor-Pro.png",
-    "title": "Photo Editor Pro",
-    "companyName": "Creative Labs",              
-    "id": 1,
-    "description": "Unleash your creativity with Photo Editor Pro, a powerful tool designed for both amateurs and professionals. This app offers advanced filters, effects, and editing tools to transform your photos into stunning masterpieces. Adjust brightness, contrast, and saturation, apply artistic overlays, or create custom collages with ease. With an intuitive interface and seamless performance, it supports high-resolution images and offers cloud syncing for easy access across devices. Whether you're enhancing everyday snapshots or crafting professional-grade visuals, Photo Editor Pro is your go-to solution for all photo editing needs.",
-    "size": 45,
-    "reviews": 1200,
-    "ratingAvg": 4.5,
-    "downloads": 50000,
-    "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 350 },
-      { "name": "5 star", "count": 500 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/Y464nK6X/Task-Manager.png",
-    "title": "Task Manager",
-    "companyName": "Productivity Inc.",
-    "id": 2,
-    "description": "Stay organized and boost your productivity with Task Manager. This intuitive app helps you create, track, and manage tasks effortlessly. Set deadlines, prioritize activities, and receive reminders to stay on top of your schedule. With features like recurring tasks, subtasks, and progress tracking, it’s perfect for personal and professional use. Sync your tasks across devices, collaborate with teams, and customize your workflow with color-coded categories. Task Manager’s clean design and robust functionality make it an essential tool for anyone looking to streamline their daily responsibilities and achieve their goals.",
-    "size": 30,
-    "reviews": 800,
-    "ratingAvg": 4.2,
-    "downloads": 30000,
-    "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 280 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/hRmFRrnW/Fitness-Coach.png",
-    "title": "Fitness Coach",
-    "companyName": "HealthTech",
-    "id": 3,
-    "description": "Transform your fitness journey with Fitness Coach, your personal guide to a healthier lifestyle. This app provides tailored workout plans based on your goals, whether it’s weight loss, muscle gain, or overall wellness. Track your progress with detailed metrics, follow guided exercises with video tutorials, and log your meals to stay on top of nutrition. With real-time feedback and motivational reminders, Fitness Coach keeps you engaged. Sync with wearables, join community challenges, and access expert tips to stay motivated. Start your path to fitness today with this all-in-one health app.",
-    "size": 60,
-    "reviews": 1500,
-    "ratingAvg": 4.7,
-    "downloads": 75000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 70 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 800 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/Qj9BR01m/Music-Streamer.jpg",
-    "title": "Music Streamer",
-    "companyName": "SoundWave",
-    "id": 4,
-    "description": "Experience music like never before with Music Streamer, your ultimate audio companion. Stream millions of songs, create personalized playlists, and discover new artists with curated recommendations. Enjoy high-quality audio with no interruptions, even offline, with downloadable tracks. The app’s sleek interface makes browsing genres, albums, and podcasts effortless. Sync your music across devices, share playlists with friends, and explore trending charts. Whether you’re into pop, classical, or indie, Music Streamer delivers a seamless listening experience tailored to your taste, keeping you connected to the sounds you love.",
-    "size": 25,
-    "reviews": 2000,
-    "ratingAvg": 4.8,
-    "downloads": 100000,
-    "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 1100 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/1G2VVBHf/Note-Keeper.png",
-    "title": "Note Keeper",
-    "companyName": "Simple Apps",
-    "id": 5,
-    "description": "Capture your thoughts and ideas with Note Keeper, a versatile note-taking app designed for simplicity and efficiency. Create text, voice, or photo notes, and organize them with tags and folders. Sync your notes across all devices for easy access, whether at home or on the go. With powerful search functionality and customizable templates, finding and managing your notes is a breeze. Collaborate with others by sharing notes or exporting them as PDFs. Note Keeper is perfect for students, professionals, or anyone who loves staying organized.",
-    "size": 15,
-    "reviews": 600,
-    "ratingAvg": 4.3,
-    "downloads": 20000,
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 230 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/dwbkGs9p/Budget-Planner.jpg",
-    "title": "Budget Planner",
-    "companyName": "Finance Solutions",
-    "id": 6,
-    "description": "Take control of your finances with Budget Planner, an easy-to-use app for managing your money. Track income, expenses, and savings with detailed reports and visualizations. Set financial goals, create budgets for different categories, and receive alerts for overspending. The app syncs with your bank accounts for real-time updates and offers tips for smarter spending. With secure data encryption and cloud backup, your financial information is safe and accessible. Budget Planner is ideal for anyone looking to achieve financial freedom through organized and informed money management.",
-    "size": 35,
-    "reviews": 900,
-    "ratingAvg": 4.4,
-    "downloads": 40000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 60 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 360 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/Pzt7Fst7/Language-Learn.jpg",
-    "title": "Language Learn",
-    "companyName": "EduTech",
-    "id": 7,
-    "description": "Master new languages with Language Learn, an interactive app designed for all skill levels. Engage in lessons covering vocabulary, grammar, and pronunciation, with real-time feedback to improve your skills. Practice speaking with AI-powered voice recognition or join live sessions with native speakers. The app offers courses in over 20 languages, with offline access and progress tracking. Customize your learning path, unlock achievements, and stay motivated with daily challenges. Language Learn makes language acquisition fun, effective, and accessible for students, travelers, or lifelong learners.",
-    "size": 50,
-    "reviews": 1100,
-    "ratingAvg": 4.6,
-    "downloads": 60000,
-    "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 170 },
-      { "name": "4 star", "count": 350 },
-      { "name": "5 star", "count": 460 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/6RM5JvVw/Weather-Now.png",
-    "title": "Weather Now",
-    "companyName": "Climate Corp",
-    "id": 8,
-    "description": "Stay prepared with Weather Now, your go-to app for real-time weather updates and forecasts. Get accurate hourly and weekly predictions, including temperature, humidity, and precipitation details. The app features interactive radar maps, severe weather alerts, and customizable widgets for quick access. Whether you’re planning a trip or your daily commute, Weather Now provides location-based forecasts and supports multiple cities. Its sleek design and reliable data make it easy to stay informed about the weather, no matter where you are in the world.",
-    "size": 20,
-    "reviews": 700,
-    "ratingAvg": 4.1,
-    "downloads": 25000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 70 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 250 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/rGn7P6zT/Recipe-Book.jpg",
-    "title": "Recipe Book",
-    "companyName": "Foodie Inc.",
-    "id": 9,
-    "description": "Explore culinary delights with Recipe Book, your ultimate cooking companion. Discover thousands of recipes for every occasion, from quick meals to gourmet dishes. Filter by cuisine, dietary needs, or ingredients you have on hand. Save favorites, create shopping lists, and follow step-by-step instructions with video guides. Share your creations with the community or import recipes from websites. With meal planning tools and nutritional information, Recipe Book inspires both novice and experienced cooks to create delicious meals with confidence and ease.",
-    "size": 40,
-    "reviews": 1300,
-    "ratingAvg": 4.5,
-    "downloads": 55000,
-    "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 550 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/KvMJ9Q4/Meditation-Guide.jpg",
-    "title": "Meditation Guide",
-    "companyName": "Zen Studios",
-    "id": 10,
-    "description": "Find peace and balance with Meditation Guide, your companion for mindfulness and relaxation. This app offers guided meditations for stress relief, better sleep, and focus, led by expert instructors. Choose from sessions of varying lengths, customize your experience with calming background sounds, and track your progress with daily streaks. Whether you’re a beginner or an experienced meditator, the app’s intuitive design and diverse content help you build a consistent practice. Meditation Guide is your key to a calmer, more centered life, anytime, anywhere.",
-    "size": 55,
-    "reviews": 950,
-    "ratingAvg": 4.7,
-    "downloads": 45000,
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 430 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/BVvp7L9Q/Travel-Buddy.png",
-    "title": "Travel Buddy",
-    "companyName": "Wanderlust Co.",
-    "id": 11,
-    "description": "Plan your adventures with Travel Buddy, the ultimate app for travelers. Create detailed itineraries, book flights and accommodations, and explore destination guides all in one place. The app offers real-time currency conversion, offline maps, and local recommendations for dining and attractions. Share plans with friends, sync across devices, and stay organized with packing lists and travel reminders. Whether you’re a solo backpacker or planning a family vacation, Travel Buddy ensures a seamless and stress-free travel experience from start to finish.",
-    "size": 65,
-    "reviews": 1400,
-    "ratingAvg": 4.3,
-    "downloads": 70000,
-    "ratings": [
-      { "name": "1 star", "count": 60 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 250 },
-      { "name": "4 star", "count": 450 },
-      { "name": "5 star", "count": 520 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/39Ssx1vX/News-Reader.png",
-    "title": "News Reader",
-    "companyName": "InfoTech",
-    "id": 12,
-    "description": "Stay informed with News Reader, your personalized news aggregator. Access the latest headlines from trusted global sources, tailored to your interests. Filter by topics like technology, sports, or politics, and save articles for offline reading. The app’s clean interface makes browsing seamless, with options to share stories or follow live updates. Receive breaking news alerts and customize your feed to focus on what matters most. News Reader keeps you connected to the world with reliable, up-to-date information at your fingertips.",
-    "size": 30,
-    "reviews": 850,
-    "ratingAvg": 4.2,
-    "downloads": 35000,
-    "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 330 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/78X5vY9/Workout-Tracker.png",
-    "title": "Workout Tracker",
-    "companyName": "FitLife",
-    "id": 13,
-    "description": "Achieve your fitness goals with Workout Tracker, designed to monitor and optimize your exercise routine. Log workouts, track reps, sets, and weights, and analyze your progress with detailed charts. The app supports a variety of activities, from gym sessions to outdoor runs, and syncs with wearables for accurate data. Set personal goals, follow pre-built workout plans, or create custom routines. With motivational reminders and community challenges, Workout Tracker keeps you on track, making fitness accessible and rewarding for everyone, regardless of experience level.",
-    "size": 50,
-    "reviews": 1100,
-    "ratingAvg": 4.6,
-    "downloads": 60000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 70 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 350 },
-      { "name": "5 star", "count": 450 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/0pjKkGPb/Video-Editor.png",
-    "title": "Video Editor",
-    "companyName": "Creative Studio",
-    "id": 14,
-    "description": "Create professional-grade videos with Video Editor, a robust app for content creators. Trim, merge, and enhance videos with a wide range of effects, transitions, and filters. Add text overlays, music, or voiceovers to personalize your projects. The app supports multiple formats and resolutions, including 4K, and offers intuitive drag-and-drop controls. Export directly to social media or save locally with no watermarks. Whether you’re making vlogs, tutorials, or cinematic masterpieces, Video Editor provides all the tools you need to bring your vision to life.",
-    "size": 70,
-    "reviews": 1600,
-    "ratingAvg": 4.4,
-    "downloads": 80000,
-    "ratings": [
-      { "name": "1 star", "count": 60 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 250 },
-      { "name": "4 star", "count": 500 },
-      { "name": "5 star", "count": 670 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/ns0nQyPS/Podcast-Player.png",
-    "title": "Podcast Player",
-    "companyName": "AudioWave",
-    "id": 15,
-    "description": "Dive into the world of podcasts with Podcast Player, designed for seamless listening. Discover and subscribe to thousands of podcasts across genres, from true crime to tech. Download episodes for offline playback, create custom playlists, and enjoy variable playback speeds. The app’s smart recommendations help you find new shows based on your interests. Sync your subscriptions across devices and stay updated with new episode notifications. With a user-friendly interface and robust search, Podcast Player makes it easy to enjoy your favorite audio content anytime, anywhere.",
-    "size": 25,
-    "reviews": 750,
-    "ratingAvg": 4.3,
-    "downloads": 30000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 60 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 240 },
-      { "name": "5 star", "count": 300 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/PZ7txPY8/Habit-Tracker.png",
-    "title": "Habit Tracker",
-    "companyName": "LifeGoals",
-    "id": 16,
-    "description": "Build lasting habits with Habit Tracker, an app designed to help you achieve your goals. Set daily, weekly, or monthly habits, track your streaks, and monitor progress with insightful statistics. Customize reminders to stay on track and receive motivational quotes to keep you inspired. The app’s minimalist design makes it easy to focus on your goals, whether it’s drinking more water, exercising, or reading. Sync across devices and share your progress with friends. Habit Tracker empowers you to create positive changes with consistency and ease.",
-    "size": 28,
-    "reviews": 650,
-    "ratingAvg": 4.4,
-    "downloads": 28000,
-    "ratings": [
-      { "name": "1 star", "count": 25 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 275 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/CKTd4mQ1/E-Book-Reader.png",
-    "title": "E-Book Reader",
-    "companyName": "LitShelf",
-    "id": 17,
-    "description": "Immerse yourself in reading with E-Book Reader, a versatile app for book lovers. Access a vast library of e-books, customize your reading experience with adjustable fonts, themes, and brightness, and bookmark pages for quick reference. The app supports multiple formats, including EPUB and PDF, and offers offline reading. Track your reading progress, highlight passages, and sync your library across devices. With a distraction-free interface and night mode, E-Book Reader is perfect for enjoying novels, textbooks, or comics anytime, anywhere.",
-    "size": 35,
-    "reviews": 900,
-    "ratingAvg": 4.5,
-    "downloads": 42000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 60 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 360 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/6QWpMDx/Sleep-Sounds.jpg",
-    "title": "Sleep Sounds",
-    "companyName": "CalmVibes",
-    "id": 18,
-    "description": "Drift into restful sleep with Sleep Sounds, an app offering a collection of soothing sounds and white noise. Choose from nature sounds, rain, ocean waves, or ambient melodies to create a calming atmosphere. Customize sound mixes, set sleep timers, and enjoy uninterrupted playback for relaxation or meditation. The app’s intuitive design makes it easy to use, even at bedtime. Perfect for improving sleep quality or reducing stress, Sleep Sounds helps you unwind and achieve a peaceful night’s rest with ease.",
-    "size": 50,
-    "reviews": 1200,
-    "ratingAvg": 4.6,
-    "downloads": 50000,
-    "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 180 },
-      { "name": "4 star", "count": 350 },
-      { "name": "5 star", "count": 550 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/chz1BHK9/Event-Planner.png",
-    "title": "Event Planner",
-    "companyName": "OrganizeEasy",
-    "id": 19,
-    "description": "Simplify event planning with Event Planner, your all-in-one solution for organizing gatherings. Create detailed event schedules, manage guest lists, and send invitations directly from the app. Track RSVPs, set budgets, and coordinate tasks with team members for seamless execution. The app offers customizable templates for weddings, birthdays, or corporate events, with reminders to keep you on track. Sync across devices and share updates in real-time. Event Planner makes organizing memorable events stress-free, ensuring every detail is perfectly managed.",
-    "size": 40,
-    "reviews": 850,
-    "ratingAvg": 4.3,
-    "downloads": 35000,
-    "ratings": [
-      { "name": "1 star", "count": 35 },
-      { "name": "2 star", "count": 70 },
-      { "name": "3 star", "count": 140 },
-      { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 355 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/Z1z32RbJ/Art-Studio.png",
-    "title": "Art Studio",
-    "companyName": "CreativeMinds",
-    "id": 20,
-    "description": "Unleash your inner artist with Art Studio, a powerful app for digital creation. Draw, paint, and sketch with a variety of brushes, textures, and tools designed for all skill levels. Customize canvases, work with layers, and apply advanced effects to bring your ideas to life. The app supports high-resolution exports and integrates with styluses for precision. Save your artwork to the cloud, share it with the community, or print it directly. Art Studio is perfect for hobbyists and professional artists alike.",
-    "size": 75,
-    "reviews": 1400,
-    "ratingAvg": 4.7,
-    "downloads": 65000,
-    "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 650 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/mVt4zsTD/Language-Translator.png",
-    "title": "Language Translator",
-    "companyName": "GlobalSpeak",
-    "id": 21,
-    "description": "Break language barriers with Language Translator, a versatile app for real-time translation. Translate text, speech, or images across over 50 languages with high accuracy. Use the camera to translate signs or menus instantly, or converse naturally with voice-to-voice translation. The app supports offline mode for travel convenience and saves your translation history for quick reference. With a user-friendly interface and fast processing, Language Translator is ideal for travelers, students, or professionals communicating in multilingual environments effortlessly.",
-    "size": 45,
-    "reviews": 1000,
-    "ratingAvg": 4.4,
-    "downloads": 48000,
-    "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 160 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 420 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/8D99HhCw/Mind-Games.png",
-    "title": "Mind Games",
-    "companyName": "BrainBoost",
-    "id": 22,
-    "description": "Challenge your mind with Mind Games, a collection of fun and engaging puzzles to boost cognitive skills. Solve logic puzzles, memory challenges, and math games designed to improve focus and problem-solving. With varying difficulty levels and daily challenges, the app keeps you entertained while sharpening your brain. Track your progress, compete with friends, and unlock achievements. Mind Games is perfect for all ages, offering a delightful way to exercise your mind and have fun at the same time.",
-    "size": 30,
-    "reviews": 700,
-    "ratingAvg": 4.2,
-    "downloads": 32000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 60 },
-      { "name": "3 star", "count": 120 },
-      { "name": "4 star", "count": 220 },
-      { "name": "5 star", "count": 270 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/ns72jDq8/Home-Workout.png",
-    "title": "Home Workout",
-    "companyName": "FitHome",
-    "id": 23,
-    "description": "Stay fit from the comfort of your home with Home Workout, an app offering guided exercise routines. Choose from bodyweight workouts, yoga, or HIIT sessions, with video demonstrations for proper form. Customize your fitness plan based on your goals and schedule, and track calories burned and workout duration. No equipment is needed, making it accessible for all. With motivational reminders and progress tracking, Home Workout helps you stay consistent and achieve your fitness goals without a gym membership.",
-    "size": 55,
-    "reviews": 1300,
-    "ratingAvg": 4.5,
-    "downloads": 55000,
-    "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 550 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/wZjwRYT9/Photo-Gallery.jpg",
-    "title": "Photo Gallery",
-    "companyName": "Memories Inc.",
-    "id": 24,
-    "description": "Organize and cherish your memories with Photo Gallery, a user-friendly app for managing photos. Sort images into albums, tag them for easy search, and create slideshows to share with friends. The app offers cloud backup, ensuring your photos are safe and accessible across devices. Apply quick edits like cropping or filters, and share directly to social media. With a sleek interface and secure storage, Photo Gallery is perfect for keeping your precious moments organized and ready to relive anytime.",
-    "size": 35,
-    "reviews": 950,
-    "ratingAvg": 4.3,
-    "downloads": 40000,
-    "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 380 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co.com/v6P55307/journal.png",
-    "title": "Daily Journal",
-    "companyName": "ReflectApp",
-    "id": 25,
-    "description": "Capture your thoughts and experiences with Daily Journal, a beautifully designed app for personal reflection. Write daily entries, add photos, or record voice memos to document your life. Organize entries with tags, search past journals easily, and secure your thoughts with password protection. The app syncs across devices and offers export options for backups. With customizable themes and mood trackers, Daily Journal encourages mindfulness and helps you preserve meaningful moments, making it ideal for journaling enthusiasts or anyone seeking self-reflection.",
-    "size": 20,
-    "reviews": 600,
-    "ratingAvg": 4.4,
-    "downloads": 25000,
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 100 },
-      { "name": "4 star", "count": 200 },
-      { "name": "5 star", "count": 230 }
-    ]
-  }
+{
+"image": "https://i.ibb.co.com/MkCjhMRc/Photo-Editor-Pro.png",
+"title": "Photo Editor Pro",
+"companyName": "Creative Labs",
+"id": 1,
+"description": "Unleash your creativity with Photo Editor Pro, a powerful tool designed for both amateurs and professionals alike. This app offers advanced filters, effects, and editing tools to transform your photos into stunning masterpieces that captivate and inspire. Adjust brightness, contrast, and saturation with precision sliders that give you full control over every pixel. Apply artistic overlays, blend modes, and textures to add depth and emotion to your images. Create custom collages by dragging and dropping photos into customizable grids, adding borders, stickers, and text for personalized stories.\n\nWith an intuitive interface that features gesture-based controls and undo/redo functionality, editing feels seamless and natural. The app supports high-resolution images up to 8K, ensuring no loss in quality during exports. Cloud syncing allows you to start editing on your phone and finish on your tablet without missing a beat. Integrate with social media platforms to share directly or save to your gallery.\n\nDive deeper into features like AI-powered object removal, where unwanted elements vanish with a single tap. Enhance portraits with skin smoothing, teeth whitening, and eye enhancement tools that make subjects look their best naturally. For landscape photographers, utilize HDR merging to combine multiple exposures for perfect dynamic range. The batch processing mode lets you apply edits to hundreds of photos at once, saving hours of time.\n\nPhoto Editor Pro also includes a library of presets inspired by famous photographers and artists, allowing you to emulate styles from vintage film to modern digital art. Tutorial videos within the app guide beginners through complex techniques like layer masking and frequency separation. For professionals, raw file support ensures compatibility with DSLR cameras, preserving all original data for non-destructive editing.\n\nSecurity is paramount; all edits are saved locally first, with optional encrypted cloud backups. The app's performance is optimized for low battery consumption, using GPU acceleration for real-time previews. Community features let you follow other creators, participate in challenges, and download user-generated filters. Regular updates bring new tools based on user feedback, keeping the app fresh and innovative.\n\nWhether you're enhancing everyday snapshots for social media, crafting professional-grade visuals for clients, or experimenting with abstract art, Photo Editor Pro adapts to your needs. Its versatility extends to graphic design, with vector tools for logos and illustrations. Export options include PNG, JPEG, TIFF, and even animated GIFs for dynamic content.\n\nParents can use kid-friendly modes with simplified tools, while educators incorporate it into lessons on digital media. The app's accessibility features, like voice commands and high-contrast modes, make it inclusive for all users. With over 50 languages supported, it's truly global. In-depth analytics show your editing habits, suggesting improvements to streamline your workflow.\n\nPhoto Editor Pro isn't just an app; it's a creative ecosystem that grows with you. From quick fixes to elaborate compositions, it empowers you to see the world through a new lens. Join millions who have elevated their photography game and discover why it's rated among the top editing tools available today. Experience the joy of creation without limits, where every photo tells a story waiting to be perfected.",
+"size": 45,
+"reviews": 1200,
+"ratingAvg": 4.5,
+"downloads": 50000,
+"ratings": [
+{ "name": "5 star", "count": 500 },
+{ "name": "4 star", "count": 350 },
+{ "name": "3 star", "count": 200 },
+{ "name": "2 star", "count": 100 },
+{ "name": "1 star", "count": 50 }
+]
+},
+{
+"image": "https://i.ibb.co.com/Y464nK6X/Task-Manager.png",
+"title": "Task Manager",
+"companyName": "Productivity Inc.",
+"id": 2,
+"description": "Stay organized and boost your productivity with Task Manager, an intuitive app that helps you create, track, and manage tasks effortlessly in a fast-paced world. Set deadlines with calendar integration, prioritize activities using Eisenhower matrices or custom labels, and receive smart reminders that adapt to your habits. Features like recurring tasks for daily routines, subtasks for breaking down complex projects, and progress tracking with visual charts keep you motivated and on target.\n\nPerfect for personal and professional use, sync your tasks across devices via secure cloud services, ensuring nothing falls through the cracks. Collaborate with teams by assigning tasks, sharing lists, and real-time updates that foster seamless teamwork. Customize your workflow with color-coded categories, tags, and themes to match your style or mood.\n\nThe clean design minimizes distractions, featuring a dashboard that highlights today's focus, upcoming deadlines, and completed achievements. Integrate with email and calendars to import events automatically. Use voice input for hands-free task creation while on the go. Analytics provide insights into your productivity patterns, suggesting optimizations like best times for deep work.\n\nFor students, manage assignments and study schedules; for parents, coordinate family chores and appointments; for entrepreneurs, track business goals and client deliverables. The app's offline mode ensures functionality anywhere, syncing changes later. Security features include biometric locks and data encryption to protect sensitive information.\n\nAdvanced filters let you view tasks by priority, due date, or category, while search functionality finds anything instantly. Pomodoro timers built-in help with time management techniques. Export reports to PDF for sharing progress with stakeholders. Community templates offer pre-made setups for common scenarios like wedding planning or fitness goals.\n\nTask Manager evolves with user feedback, adding integrations like Slack or Trello for power users. Battery-efficient and lightweight, it runs smoothly on older devices too. Gamification elements award badges for streaks, making productivity fun. Whether juggling work-life balance or leading a team, this app transforms chaos into clarity, empowering you to achieve more with less stress. Discover the satisfaction of checking off tasks and watching your goals come to life in an app that's as flexible as you need it to be.",
+"size": 30,
+"reviews": 800,
+"ratingAvg": 4.2,
+"downloads": 30000,
+"ratings": [
+{ "name": "5 star", "count": 280 },
+{ "name": "4 star", "count": 250 },
+{ "name": "3 star", "count": 150 },
+{ "name": "2 star", "count": 80 },
+{ "name": "1 star", "count": 40 }
+]
+},
+{
+"image": "https://i.ibb.co.com/hRmFRrnW/Fitness-Coach.png",
+"title": "Fitness Coach",
+"companyName": "HealthTech",
+"id": 3,
+"description": "Transform your fitness journey with Fitness Coach, your personal guide to a healthier lifestyle tailored to individual needs and aspirations. This app provides tailored workout plans based on your goals—weight loss, muscle gain, endurance building, or overall wellness—with algorithms that adjust difficulty over time. Track progress with detailed metrics like calories burned, steps, heart rate zones, and body measurements logged via simple inputs or wearable syncs.\n\nFollow guided exercises with high-definition video tutorials demonstrating proper form to prevent injuries and maximize effectiveness. Log meals effortlessly with a barcode scanner and vast food database, receiving nutritional breakdowns and recipe suggestions to align with your diet. Real-time feedback during workouts corrects posture via AI analysis if using camera features.\n\nMotivational reminders ping you gently, while community challenges connect you with like-minded users for virtual competitions. Access expert tips from certified trainers on topics like recovery, supplementation, and mental health in fitness. The app supports yoga, Pilates, cardio, strength training, and more, with options for home or gym setups.\n\nIntegrate with Apple Health, Google Fit, or devices like Fitbit for holistic data views. Offline modes download plans for travel, while social sharing celebrates milestones. For beginners, start with basics; advanced users enjoy HIIT circuits and periodization schedules.\n\nNutrition tools include macro trackers, hydration reminders, and grocery list generators. Sleep tracking correlates rest with performance, offering advice for better recovery. Accessibility options like audio cues and scalable intensities make it inclusive. Regular challenges keep engagement high, with rewards like badges or premium content unlocks.\n\nFitness Coach isn't just workouts; it's a lifestyle coach promoting sustainable habits. Parents can involve family plans, office workers sneak in desk exercises. Data privacy ensures your health info stays secure. Updates bring new routines based on trends like mindfulness fusion. Embrace a fitter you with an app that adapts, educates, and inspires every step of the way, turning aspirations into achievements.",
+"size": 60,
+"reviews": 1500,
+"ratingAvg": 4.7,
+"downloads": 75000,
+"ratings": [
+{ "name": "5 star", "count": 800 },
+{ "name": "4 star", "count": 400 },
+{ "name": "3 star", "count": 200 },
+{ "name": "2 star", "count": 70 },
+{ "name": "1 star", "count": 30 }
+]
+},
+{
+"image": "https://i.ibb.co.com/Qj9BR01m/Music-Streamer.jpg",
+"title": "Music Streamer",
+"companyName": "SoundWave",
+"id": 4,
+"description": "Experience music like never before with Music Streamer, your ultimate audio companion that brings millions of songs to your fingertips with unparalleled ease. Stream from a vast library covering every genre imaginable, create personalized playlists using AI recommendations that learn your tastes over time. Discover new artists through curated radio stations, daily mixes, and mood-based selections that match your vibe—energetic workouts or chill evenings.\n\nEnjoy high-quality audio streaming up to 320kbps, with offline downloads for flights or commutes without data. The sleek interface features intuitive navigation, lyric displays synced to beats, and crossfade transitions for DJ-like flows. Sync across devices so your queue follows you from phone to car to home speaker.\n\nShare playlists collaboratively with friends, adding tracks in real-time for parties or road trips. Explore podcasts integrated seamlessly, with episodes auto-downloaded for subscribers. Equalizer presets optimize sound for headphones, speakers, or vehicles, while sleep timers fade out gently.\n\nFor audiophiles, hi-res audio support and spatial sound create immersive experiences. Social features include following artists for exclusive content, concert alerts based on location. Parental controls filter explicit content, making it family-friendly.\n\nIntegration with smart home devices voice-controls playback. Analytics show your listening habits, year-in-review summaries highlight favorites. Community upvotes surface underground gems. Offline lyrics and karaoke modes add fun layers.\n\nMusic Streamer transcends listening; it's a cultural hub connecting you to global sounds. From classical symphonies to indie beats, pop hits to jazz improvisations, it tailors discovery to evolve with you. Battery optimization ensures long play sessions, while data saver modes for limited connections.\n\nRegular updates add features like live session recordings or virtual concerts. Secure logins protect your library. Whether commuting, relaxing, or celebrating, this app soundtracks life's moments perfectly, keeping you connected to the rhythms that move you.",
+"size": 25,
+"reviews": 2000,
+"ratingAvg": 4.8,
+"downloads": 100000,
+"ratings": [
+{ "name": "5 star", "count": 1100 },
+{ "name": "4 star", "count": 600 },
+{ "name": "3 star", "count": 150 },
+{ "name": "2 star", "count": 100 },
+{ "name": "1 star", "count": 50 }
+]
+},
+{
+"image": "https://i.ibb.co.com/1G2VVBHf/Note-Keeper.png",
+"title": "Note Keeper",
+"companyName": "Simple Apps",
+"id": 5,
+"description": "Capture your thoughts and ideas instantly with Note Keeper, a versatile note-taking app designed for simplicity, efficiency, and cross-platform accessibility. Create text notes with rich formatting, voice memos for quick dictations, or photo attachments to visualize concepts. Organize everything with customizable tags, folders, and color codes that make retrieval effortless even in vast collections.\n\nSync seamlessly across all devices using end-to-end encrypted cloud services, ensuring your ideas are always at hand—write on mobile, edit on desktop. Powerful search scans handwriting recognition in images or voice transcriptions for comprehensive results. Custom templates for meeting minutes, to-do lists, or journals speed up creation.\n\nCollaborate by sharing notes with edit permissions, ideal for team brainstorming or family shopping lists. Export as PDF, Word, or images for presentations. Drawing tools with stylus support turn notes into sketches or mind maps.\n\nSecurity features like PIN locks or biometric access protect sensitive info, while backup options prevent data loss. Offline functionality caches everything locally. Widgets provide quick access from home screens, voice assistants integrate for hands-free commands.\n\nFor students, scan textbooks and annotate; professionals log client meetings with timestamps. Travel journals incorporate location tags. Habit-building prompts encourage daily entries. The minimalist UI reduces cognitive load, focusing on content over clutter.\n\nUpdates introduce AI summaries for long notes or sentiment analysis for journals. Battery-friendly and lightweight, it runs on budget devices. Community-shared templates inspire uses like recipe books or fitness logs.\n\nNote Keeper evolves note-taking into a powerful knowledge base, fostering creativity and organization in daily life. From fleeting ideas to detailed plans, it preserves your mind's output reliably, making disorganization a thing of the past in an intuitive package that grows with your needs.",
+"size": 15,
+"reviews": 600,
+"ratingAvg": 4.3,
+"downloads": 20000,
+"ratings": [
+{ "name": "5 star", "count": 230 },
+{ "name": "4 star", "count": 200 },
+{ "name": "3 star", "count": 100 },
+{ "name": "2 star", "count": 50 },
+{ "name": "1 star", "count": 20 }
+]
+},
+{
+"image": "https://i.ibb.co.com/dwbkGs9p/Budget-Planner.jpg",
+"title": "Budget Planner",
+"companyName": "Finance Solutions",
+"id": 6,
+"description": "Take control of your finances comprehensively with Budget Planner, an easy-to-use app that empowers users to manage money wisely through intuitive tracking and insights. Monitor income streams, expenses, savings goals with interactive dashboards displaying pie charts, trends, and forecasts based on your data patterns.\n\nSet budgets for categories like groceries, entertainment, or travel, receiving real-time alerts for potential overspending via notifications. Sync with bank accounts securely using read-only APIs for automatic transaction imports, categorizing them intelligently with machine learning.\n\nFinancial goal setters track progress toward debt payoff, emergency funds, or vacations with milestone celebrations. Tips sections offer personalized advice on investing, tax saving, or cost-cutting based on spending habits. Reports exportable to Excel for accountants or tax season prep.\n\nFor families, multi-user modes share views without compromising privacy. Currency conversion supports international users, while bill reminders prevent late fees. Investment trackers monitor stocks or crypto integrations optionally.\n\nSecurity is robust with two-factor authentication, data encryption, and anonymized analytics. Offline access allows logging cash transactions anywhere. Customizable themes and icons make it engaging.\n\nStudents learn budgeting basics with tutorial modes; retirees manage pensions. Community forums share strategies anonymously. Updates add features like cryptocurrency wallets or ESG investment tips.\n\nBudget Planner transforms financial chaos into clarity, promoting freedom through informed decisions. From daily coffee tracking to long-term wealth building, it adapts to lifestyles, fostering habits that lead to stability and growth in an accessible, empowering platform.",
+"size": 35,
+"reviews": 900,
+"ratingAvg": 4.4,
+"downloads": 40000,
+"ratings": [
+{ "name": "5 star", "count": 360 },
+{ "name": "4 star", "count": 300 },
+{ "name": "3 star", "count": 150 },
+{ "name": "2 star", "count": 60 },
+{ "name": "1 star", "count": 30 }
+]
+},
+{
+"image": "https://i.ibb.co.com/Pzt7Fst7/Language-Learn.jpg",
+"title": "Language Learn",
+"companyName": "EduTech",
+"id": 7,
+"description": "Master new languages immersively with Language Learn, an interactive app catering to all skill levels from absolute beginners to advanced speakers seeking fluency. Engage in bite-sized lessons covering vocabulary building through flashcards, grammar rules with explanations and examples, pronunciation practice via speech recognition that scores accuracy in real-time.\n\nPractice conversing with AI chatbots simulating native interactions or join live sessions with certified tutors for personalized feedback. Courses span over 20 languages including Spanish, French, Mandarin, with cultural notes enriching context—like idioms or etiquette.\n\nOffline access downloads lessons for travel, progress tracking visualizes streaks and mastery levels with gamified elements like points and leaderboards. Customize paths focusing on business, travel, or exam prep like TOEFL.\n\nDuolingo-like streaks motivate daily practice, while podcasts and stories immerse in authentic content. Community exchanges pair users for language swaps virtually. Analytics highlight weaknesses, adapting difficulty dynamically.\n\nFor kids, fun animations; professionals, industry-specific jargon. Accessibility with dyslexia fonts or audio-only modes. Updates add endangered languages or AR flashcard overlays.\n\nSecure profiles sync across devices. Language Learn makes acquisition engaging and effective, turning daunting tasks into enjoyable habits that open doors to new cultures, careers, and connections worldwide through technology-driven methodology backed by linguistic research.",
+"size": 50,
+"reviews": 1100,
+"ratingAvg": 4.6,
+"downloads": 60000,
+"ratings": [
+{ "name": "5 star", "count": 460 },
+{ "name": "4 star", "count": 350 },
+{ "name": "3 star", "count": 170 },
+{ "name": "2 star", "count": 80 },
+{ "name": "1 star", "count": 40 }
+]
+},
+{
+"image": "https://i.ibb.co.com/6RM5JvVw/Weather-Now.png",
+"title": "Weather Now",
+"companyName": "Climate Corp",
+"id": 8,
+"description": "Stay prepared proactively with Weather Now, your reliable source for real-time weather updates, detailed forecasts, and environmental insights tailored to your locations. Access hourly breakdowns, 14-day outlooks including temperature fluctuations, humidity levels, wind speeds, UV indices, and precipitation probabilities powered by advanced meteorological models.\n\nInteractive radar maps animate storms, satellite views show cloud cover, while severe alerts push notifications for hurricanes, floods, or heatwaves with safety tips. Custom widgets display glances on home screens, supporting multiple cities for travelers or families.\n\nPollen counts, air quality indices help allergy sufferers or urban dwellers. Sunrise/sunset times aid photographers, moon phases for astronomers. Integration with calendars flags weather impacts on events.\n\nOffline caches recent data, history graphs analyze trends like climate changes. Community reports crowdsource local conditions for hyper-accuracy.\n\nFor farmers, soil moisture; sailors, tide info; athletes, wind chill. Themed backgrounds reflect current conditions visually. Data privacy complies with global standards.\n\nUpdates incorporate AI predictions for finer granularity. Weather Now demystifies the skies, empowering decisions from outfit choices to evacuation plans in an intuitive app that brings professional-grade forecasting to everyday users reliably.",
+"size": 20,
+"reviews": 700,
+"ratingAvg": 4.1,
+"downloads": 25000,
+"ratings": [
+{ "name": "5 star", "count": 250 },
+{ "name": "4 star", "count": 200 },
+{ "name": "3 star", "count": 150 },
+{ "name": "2 star", "count": 70 },
+{ "name": "1 star", "count": 30 }
+]
+},
+{
+"image": "https://i.ibb.co.com/rGn7P6zT/Recipe-Book.jpg",
+"title": "Recipe Book",
+"companyName": "Foodie Inc.",
+"id": 9,
+"description": "Explore endless culinary possibilities with Recipe Book, your comprehensive cooking companion boasting thousands of recipes from global cuisines to suit every palate and occasion. Filter seamlessly by ingredients in your pantry, dietary restrictions like vegan or keto, prep time, or calorie counts for health-conscious meals.\n\nSave favorites to personal cookbooks, generate shopping lists that sync with stores, follow step-by-step instructions enhanced by timer integrations and video guides from chefs demonstrating techniques.\n\nCommunity uploads allow rating and forking recipes, importing from websites via URL scans. Nutritional breakdowns per serving aid diet tracking, meal planners schedule weekly menus with variety suggestions.\n\nSeasonal recommendations highlight fresh produce, wine pairings elevate dinners. For beginners, skill-building tutorials; experts, molecular gastronomy experiments.\n\nOffline access stores recipes, voice-guided cooking keeps hands free. Social sharing posts creations to networks. AR overlays visualize plated dishes.\n\nAllergen alerts, substitution tips accommodate needs. Updates add fusion trends or sustainability-focused options. Recipe Book inspires confidence in kitchens, turning novices into gourmets and routines into adventures through diverse, accessible gastronomic exploration.",
+"size": 40,
+"reviews": 1300,
+"ratingAvg": 4.5,
+"downloads": 55000,
+"ratings": [
+{ "name": "5 star", "count": 550 },
+{ "name": "4 star", "count": 400 },
+{ "name": "3 star", "count": 200 },
+{ "name": "2 star", "count": 100 },
+{ "name": "1 star", "count": 50 }
+]
+},
+{
+"image": "https://i.ibb.co.com/KvMJ9Q4/Meditation-Guide.jpg",
+"title": "Meditation Guide",
+"companyName": "Zen Studios",
+"id": 10,
+"description": "Find inner peace and emotional balance with Meditation Guide, a holistic app offering guided sessions for stress reduction, improved sleep, enhanced focus, and overall mindfulness led by world-renowned instructors with soothing voices and evidence-based techniques.\n\nChoose sessions from 5-minute quick resets to hour-long deep dives, customizing with background sounds like rainforests or ocean waves layered for personalization. Track progress with journals, streaks, and mood logs that correlate practices with well-being improvements.\n\nBeginners start with basics like breathing exercises; advanced users explore body scans or loving-kindness meditations. Daily reminders integrate into routines, community circles share experiences anonymously.\n\nSleep stories narrated lullabies aid insomnia, kids' modes teach calm through fun stories. Integration with health apps tracks heart rate variability for biofeedback.\n\nOffline downloads, customizable timers, progress analytics refine practices. Themes adjust to time of day, accessibility with transcripts.\n\nUpdates feature guest experts on topics like anxiety management. Meditation Guide cultivates habits that transform mental health, providing tools for serene living amid modern chaos accessibly and compassionately. ",
+"size": 55,
+"reviews": 950,
+"ratingAvg": 4.7,
+"downloads": 45000,
+"ratings": [
+{ "name": "5 star", "count": 430 },
+{ "name": "4 star", "count": 300 },
+{ "name": "3 star", "count": 150 },
+{ "name": "2 star", "count": 50 },
+{ "name": "1 star", "count": 20 }
+]
+},
+{
+"image": "https://i.ibb.co.com/BVvp7L9Q/Travel-Buddy.png",
+"title": "Travel Buddy",
+"companyName": "Wanderlust Co.",
+"id": 11,
+"description": "Plan unforgettable adventures effortlessly with Travel Buddy, the comprehensive app consolidating itineraries, bookings, and discovery for seamless journeys worldwide. Build detailed schedules with drag-and-drop events, book flights, hotels, rentals via integrated partners with price alerts for deals.\n\nOffline maps navigate without data, real-time currency converters handle expenses, local recommendations curate hidden gems for food, sights based on preferences. Packing lists customize to weather and activities, reminders for visas or check-ins.\n\nShare plans collaboratively, sync groups for coordinated trips. Safety features include embassy contacts, travel insurances links. AR previews landmarks, translation tools bridge languages.\n\nFor solo travelers, buddy matching; families, child-friendly filters. Budget trackers monitor spends, journals capture memories with photo integrations.\n\nEco-tips promote sustainable tourism, updates add VR tours. Travel Buddy minimizes stresses, maximizes joys, turning dreams into realities through smart, connected planning that adapts to every explorer's style.",
+"size": 65,
+"reviews": 1400,
+"ratingAvg": 4.3,
+"downloads": 70000,
+"ratings": [
+{ "name": "5 star", "count": 520 },
+{ "name": "4 star", "count": 450 },
+{ "name": "3 star", "count": 250 },
+{ "name": "2 star", "count": 120 },
+{ "name": "1 star", "count": 60 }
+]
+},
+{
+"image": "https://i.ibb.co.com/39Ssx1vX/News-Reader.png",
+"title": "News Reader",
+"companyName": "InfoTech",
+"id": 12,
+"description": "Stay informed intelligently with News Reader, a personalized aggregator pulling from thousands of trusted sources across spectra for balanced views on global events. Customize feeds by topics—tech innovations, sports scores, political developments—with algorithms curating based on reading habits while allowing manual source selections to avoid bubbles.\n\nSave articles offline, share via integrations, follow live updates on breaking stories with push notifications calibrated to urgency. Dark mode, text resizing enhance readability, podcasts summaries for audio learners.\n\nFact-check integrations link to verifiers, comment sections moderated for constructive discourse. Daily briefs summarize top stories, video embeds enrich multimedia.\n\nFor professionals, industry deep dives; students, educational explainers. Privacy-focused, no data selling. Updates add AI debunks for misinformation.\n\nNews Reader empowers critical consumption, keeping you connected responsibly in an era of information overload through curated, accessible journalism that respects time and intelligence.",
+"size": 30,
+"reviews": 850,
+"ratingAvg": 4.2,
+"downloads": 35000,
+"ratings": [
+{ "name": "5 star", "count": 330 },
+{ "name": "4 star", "count": 250 },
+{ "name": "3 star", "count": 150 },
+{ "name": "2 star", "count": 80 },
+{ "name": "1 star", "count": 40 }
+]
+},
+{
+"image": "https://i.ibb.co.com/78X5vY9/Workout-Tracker.png",
+"title": "Workout Tracker",
+"companyName": "FitLife",
+"id": 13,
+"description": "Achieve peak fitness with Workout Tracker, meticulously logging exercises to optimize routines and track gains over time. Record reps, sets, weights with auto-calculations for one-rep maxes, analyze trends via graphs on strength, endurance metrics synced from wearables like Apple Watch for heart rate, steps.\n\nPre-built plans for goals like marathon training or bodybuilding, custom builders mix activities from weights to yoga. Video libraries demonstrate forms, rest timers keep pace.\n\nCommunity challenges compete globally, motivational reminders push consistency. Nutrition logging correlates diet with performance, recovery tips based on sleep data.\n\nFor gyms or home, equipment filters adapt. Progress photos overlay changes, export data for coaches. Accessibility scales for beginners to athletes.\n\nWorkout Tracker demystifies fitness science, turning data into actionable insights for sustainable health transformations that motivate through visible results and community support.",
+"size": 50,
+"reviews": 1100,
+"ratingAvg": 4.6,
+"downloads": 60000,
+"ratings": [
+{ "name": "5 star", "count": 450 },
+{ "name": "4 star", "count": 350 },
+{ "name": "3 star", "count": 200 },
+{ "name": "2 star", "count": 70 },
+{ "name": "1 star", "count": 30 }
+]
+},
+{
+"image": "https://i.ibb.co.com/0pjKkGPb/Video-Editor.png",
+"title": "Video Editor",
+"companyName": "Creative Studio",
+"id": 14,
+"description": "Create cinematic videos professionally with Video Editor, equipped for creators trimming clips, merging sequences with precision timelines supporting multi-track audio. Enhance with effects, transitions, color grading tools rivaling desktop software, text animations, voiceovers recorded in-app.\n\nSupport 4K exports, slow-motion, reverse plays, green screen compositing. Drag-drop interfaces intuit, templates speed social media reels or vlogs.\n\nAI auto-edits suggest cuts, music syncs to beats from library. Collaborations share projects cloud-based. Tutorials teach advanced techniques like keyframing.\n\nFor YouTubers metrics integrations, marketers branding kits. Offline rendering, stylus support for storyboards. Updates add VR editing.\n\nVideo Editor unleashes storytelling potential, from casual clips to films, democratizing high-end production in mobile format that inspires boundless creativity.",
+"size": 70,
+"reviews": 1600,
+"ratingAvg": 4.4,
+"downloads": 80000,
+"ratings": [
+{ "name": "5 star", "count": 670 },
+{ "name": "4 star", "count": 500 },
+{ "name": "3 star", "count": 250 },
+{ "name": "2 star", "count": 120 },
+{ "name": "1 star", "count": 60 }
+]
+},
+{
+"image": "https://i.ibb.co.com/ns0nQyPS/Podcast-Player.png",
+"title": "Podcast Player",
+"companyName": "AudioWave",
+"id": 15,
+"description": "Immerse in audio storytelling with Podcast Player, discovering shows across genres via smart searches and recommendations tailored to listens. Subscribe seamlessly, download for offline, variable speeds 0.5x-3x, trim silences for efficiency.\n\nPlaylists curate cross-show themes, sleep timers fade gently. Transcripts searchable, chapters navigate episodes. Car mode simplifies driving controls.\n\nCommunity reviews, creator supports via integrations. Analytics recap yearly listens, social clippings share snippets.\n\nFor commuters daily updates, learners educational pods. Accessibility voiceover compatible.\n\nPodcast Player elevates listening experiences, connecting enthusiasts to content that educates, entertains, and inspires through superior playback and discovery features.",
+"size": 25,
+"reviews": 750,
+"ratingAvg": 4.3,
+"downloads": 30000,
+"ratings": [
+{ "name": "5 star", "count": 300 },
+{ "name": "4 star", "count": 240 },
+{ "name": "3 star", "count": 120 },
+{ "name": "2 star", "count": 60 },
+{ "name": "1 star", "count": 30 }
+]
+},
+{
+"image": "https://i.ibb.co.com/PZ7txPY8/Habit-Tracker.png",
+"title": "Habit Tracker",
+"companyName": "LifeGoals",
+"id": 16,
+"description": "Build transformative habits with Habit Tracker, setting routines visually chaining streaks for momentum in areas like hydration, exercise, reading. Custom reminders notify contextually, statistics visualize adherence rates, motivational quotes inspire dips.\n\nMinimalist logs quick entries, integrations pull data from health apps. Group habits into chains, friends accountability partners share progress.\n\nFor wellness mindfulness prompts, productivity work blocks. Gamification unlocks levels, themes personalize.\n\nHabit Tracker leverages behavioral science for lasting change, turning intentions into automatic behaviors through tracking and nudges that foster self-improvement sustainably.",
+"size": 28,
+"reviews": 650,
+"ratingAvg": 4.4,
+"downloads": 28000,
+"ratings": [
+{ "name": "5 star", "count": 275 },
+{ "name": "4 star", "count": 200 },
+{ "name": "3 star", "count": 100 },
+{ "name": "2 star", "count": 50 },
+{ "name": "1 star", "count": 25 }
+]
+},
+{
+"image": "https://i.ibb.co.com/CKTd4mQ1/E-Book-Reader.png",
+"title": "E-Book Reader",
+"companyName": "LitShelf",
+"id": 17,
+"description": "Dive into literature boundless with E-Book Reader, supporting formats housing personal libraries synced cloud-wide. Adjust fonts, spacing, themes including sepia for eye comfort, night modes invert colors.\n\nBookmarks, highlights, notes sync across reads, dictionary lookups instant definitions. Reading stats track speeds, goals set pages daily.\n\nPublic domain classics free, store integrations purchase seamlessly. Audio conversions text-to-speech for multitasking.\n\nFor book clubs annotations shareable, comics zoomable panels. Whispersync matches audiobooks positions.\n\nE-Book Reader revives reading joy, making books portable companions that adapt to preferences, enriching minds anytime with vast worlds at fingertips.",
+"size": 35,
+"reviews": 900,
+"ratingAvg": 4.5,
+"downloads": 42000,
+"ratings": [
+{ "name": "5 star", "count": 360 },
+{ "name": "4 star", "count": 300 },
+{ "name": "3 star", "count": 150 },
+{ "name": "2 star", "count": 60 },
+{ "name": "1 star", "count": 30 }
+]
+},
+{
+"image": "https://i.ibb.co.com/6QWpMDx/Sleep-Sounds.jpg",
+"title": "Sleep Sounds",
+"companyName": "CalmVibes",
+"id": 18,
+"description": "Achieve restorative sleep with Sleep Sounds, curating ambient audioscapes from nature symphonies to binaural beats inducing relaxation states scientifically. Mix layers volumes independently, timers gradual fadeouts prevent abrupt wakes.\n\nStories whispered narratives lull minds, meditations guide breathing. Track patterns correlate sounds with quality via integrations.\n\nFor insomniacs white noise masks disturbances, parents lullabies soothe babies. Custom uploads personal recordings.\n\nOffline libraries, adaptive volumes environmental noises. Updates add ASMR triggers.\n\nSleep Sounds transforms bedtimes into sanctuaries, promoting deeper rest essential for health through soothing sonic environments tailored nightly.",
+"size": 50,
+"reviews": 1200,
+"ratingAvg": 4.6,
+"downloads": 50000,
+"ratings": [
+{ "name": "5 star", "count": 550 },
+{ "name": "4 star", "count": 350 },
+{ "name": "3 star", "count": 180 },
+{ "name": "2 star", "count": 80 },
+{ "name": "1 star", "count": 40 }
+]
+},
+{
+"image": "https://i.ibb.co.com/chz1BHK9/Event-Planner.png",
+"title": "Event Planner",
+"companyName": "OrganizeEasy",
+"id": 19,
+"description": "Orchestrate flawless events with Event Planner, templated for occasions managing guests RSVPs, budgets expenditures real-time. Schedules timeline views, tasks assign vendors collaborators notifications.\n\nInvitations customizable send digitally track responses. Seating charts drag-drop, menus dietary notes.\n\nFor weddings theme boards, corporates agendas polling. Integrations payments, weather checks.\n\nPost-event surveys feedback loops. Cloud collaborations multi-edit.\n\nEvent Planner alleviates logistics burdens, ensuring memorable executions through structured tools that handle details professionally from inception to wrap-up.",
+"size": 40,
+"reviews": 850,
+"ratingAvg": 4.3,
+"downloads": 35000,
+"ratings": [
+{ "name": "5 star", "count": 355 },
+{ "name": "4 star", "count": 250 },
+{ "name": "3 star", "count": 140 },
+{ "name": "2 star", "count": 70 },
+{ "name": "1 star", "count": 35 }
+]
+},
+{
+"image": "https://i.ibb.co.com/Z1z32RbJ/Art-Studio.png",
+"title": "Art Studio",
+"companyName": "CreativeMinds",
+"id": 20,
+"description": "Ignite artistic passions with Art Studio digital canvas offering brushes mimicking mediums watercolor oils, layers blending modes professional workflows. Symmetry tools mandalas, animations frame-by-frame GIFs.\n\nStylus pressures sensitivity, color palettes mixers infinite undos. Tutorials strokes basics to advanced shading.\n\nCommunity galleries share critiques, cloud saves portfolios. Exports print-ready resolutions.\n\nFor hobbyists doodles, pros illustrations commissions. AR previews real-world overlays.\n\nArt Studio democratizes creation, providing studio-grade instruments pocket-sized inspiring expression boundless without mess or cost traditional supplies.",
+"size": 75,
+"reviews": 1400,
+"ratingAvg": 4.7,
+"downloads": 65000,
+"ratings": [
+{ "name": "5 star", "count": 650 },
+{ "name": "4 star", "count": 400 },
+{ "name": "3 star", "count": 200 },
+{ "name": "2 star", "count": 100 },
+{ "name": "1 star", "count": 50 }
+]
+},
+{
+"image": "https://i.ibb.co.com/mVt4zsTD/Language-Translator.png",
+"title": "Language Translator",
+"companyName": "GlobalSpeak",
+"id": 21,
+"description": "Bridge communications instantly with Language Translator handling 50+ tongues text speech camera inputs accuracies honed neural networks. Conversation modes alternate real-time dialogues, image scans menus signs contextual understandings.\n\nOffline packs travel essentials, history favorites quick recalls. Pronunciations audio guides, slang inclusions cultural nuances.\n\nFor tourists phrasebooks, business document translations. Integrations messaging apps seamless.\n\nPrivacy local processing options. Updates expand dialects emojis interpretations.\n\nLanguage Translator dissolves barriers fostering connections global village through accurate versatile tools that empower interactions confidently anywhere.",
+"size": 45,
+"reviews": 1000,
+"ratingAvg": 4.4,
+"downloads": 48000,
+"ratings": [
+{ "name": "5 star", "count": 420 },
+{ "name": "4 star", "count": 300 },
+{ "name": "3 star", "count": 160 },
+{ "name": "2 star", "count": 80 },
+{ "name": "1 star", "count": 40 }
+]
+},
+{
+"image": "https://i.ibb.co.com/8D99HhCw/Mind-Games.png",
+"title": "Mind Games",
+"companyName": "BrainBoost",
+"id": 22,
+"description": "Sharpen intellect entertainingly with Mind Games puzzles suite logics memories maths tailored difficulties daily fresh challenges. Leaderboards compete friends, progress tracks improvements cognitive metrics.\n\nModes solo timed, categories sudoku crosswords trainings specific skills like spatial reasoning.\n\nFor all ages kids basics seniors memory boosts. Hints guide stuck moments, achievements unlock levels.\n\nOffline plays, adaptive algorithms match skills. Science-backed exercises enhance focus problem-solving fun ways.\n\nMind Games stimulates brains preventively delightfully turning downtime productive mental workouts that engage challenge reward persistently.",
+"size": 30,
+"reviews": 700,
+"ratingAvg": 4.2,
+"downloads": 32000,
+"ratings": [
+{ "name": "5 star", "count": 270 },
+{ "name": "4 star", "count": 220 },
+{ "name": "3 star", "count": 120 },
+{ "name": "2 star", "count": 60 },
+{ "name": "1 star", "count": 30 }
+]
+},
+{
+"image": "https://i.ibb.co.com/ns72jDq8/Home-Workout.png",
+"title": "Home Workout",
+"companyName": "FitHome",
+"id": 23,
+"description": "Energize routines equipment-free with Home Workout guiding bodyweight sessions yoga HIIT videos proper forms animations. Plans personalize goals levels durations calorie estimates motivations.\n\nTrack burns durations streaks integrations health ecosystems. Reminders consistent, communities share tips modifications injuries.\n\nFor busy parents quick 10-min, travelers hotel adapts. Progress calendars visualize commitments.\n\nNutrition tips complement exercises holistic approaches. Updates seasonal challenges.\n\nHome Workout makes fitness inclusive convenient barriers transforming living rooms gyms empowering health journeys sustainably engaging manners.",
+"size": 55,
+"reviews": 1300,
+"ratingAvg": 4.5,
+"downloads": 55000,
+"ratings": [
+{ "name": "5 star", "count": 550 },
+{ "name": "4 star", "count": 400 },
+{ "name": "3 star", "count": 200 },
+{ "name": "2 star", "count": 100 },
+{ "name": "1 star", "count": 50 }
+]
+},
+{
+"image": "https://i.ibb.co.com/wZjwRYT9/Photo-Gallery.jpg",
+"title": "Photo Gallery",
+"companyName": "Memories Inc.",
+"id": 24,
+"description": "Preserve visuals organized with Photo Gallery album creations auto-tagging AI faces locations dates searches effortless. Cloud backups secure accesses, edits non-destructive filters crops.\n\nSlideshows music transitions shareable, prints orders integrated. Privacy albums passworded shared selectively.\n\nDeduplications free spaces, memories flashbacks chronological recaps. Integrations cameras instant uploads.\n\nFor photographers metadata views, families event folders. AR revives old photos colors.\n\nPhoto Gallery cherishes moments technologically safeguarding curating lifes visuals intuitively joyfully across generations devices.",
+"size": 35,
+"reviews": 950,
+"ratingAvg": 4.3,
+"downloads": 40000,
+"ratings": [
+{ "name": "5 star", "count": 380 },
+{ "name": "4 star", "count": 300 },
+{ "name": "3 star", "count": 150 },
+{ "name": "2 star", "count": 80 },
+{ "name": "1 star", "count": 40 }
+]
+},
+{
+"image": "https://i.ibb.co.com/v6P55307/journal.png",
+"title": "Daily Journal",
+"companyName": "ReflectApp",
+"id": 25,
+"description": "Document reflections profoundly with Daily Journal entries multimedia moods weathers locations enriching contexts. Passwords encrypt privacies, searches tags themes uncover patterns insights.\n\nTemplates prompts inspire writings, exports PDFs preservations. Syncs seamless, themes customize aesthetics.\n\nFor therapy emotion tracks, gratitude logs positivity. Voice-to-text quick captures, photo diaries visual stories.\n\nAnalytics sentiment trends over time. Community optional anonymized shares.\n\nDaily Journal fosters self-awareness growth therapeutic outlet capturing essences lives digitally timeless manner encouraging mindfulness daily.",
+"size": 20,
+"reviews": 600,
+"ratingAvg": 4.4,
+"downloads": 25000,
+"ratings": [
+{ "name": "5 star", "count": 230 },
+{ "name": "4 star", "count": 200 },
+{ "name": "3 star", "count": 100 },
+{ "name": "2 star", "count": 50 },
+{ "name": "1 star", "count": 20 }
+]
+}
 ]
