@@ -53,8 +53,8 @@ const Navbar = () => {
 
             {/* 3 */}
             <div className="navbar-end">
-                <div className='flex justify-center items-center btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-lg mx-10 p-6'>
-                    <FaGithub className='h-7 w-7'/>
+                <div className='flex justify-center items-center btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] rounded-lg mx-10 p-4 md:p-6'>
+                    <FaGithub className='h-6 w-7'/>
                 <NavLink to="https://github.com/MOHITUL" className="font-bold text-white text-sm">Contribute</NavLink>
                 </div>
             </div>
