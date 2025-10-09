@@ -4,7 +4,7 @@ import { RiDownloadLine } from 'react-icons/ri';
 import { Link, NavLink } from 'react-router';
 
 const AppCard = ({ app }) => {
-    const { image, title, downloads, ratingAvg } = app
+    const { image, title, downloads, ratingAvg, id } = app
 
     const formatDownloads = (num) => {
         if (num >= 1000) return (num / 1000).toFixed(0) + 'K';
@@ -21,7 +21,7 @@ const AppCard = ({ app }) => {
             <div className="card-body items-center text-center">
                 <h2 className="card-title">{title}</h2>
                 <div className="card-actions flex justify-center gap-50">
-                    <NavLink className="flex items-center gap-2 text-green-500 font-semibold"> <RiDownloadLine />
+                    <NavLink to={`/app/${id}`} className="flex items-center gap-2 text-green-500 font-semibold"> <RiDownloadLine />
                         {formatDownloads(downloads)}</NavLink>
 
                     <button className="flex items-center gap-2 text-yellow-400 font-semibold"> <FaRegStar />
