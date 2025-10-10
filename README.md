@@ -1,16 +1,6 @@
-# React + Vite
+App Name:HERO.IO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:Hero.io is a company that makes various types of apps for Android and Apple's daily needs. There are a total of three pages here: Home, Apps, Installation. The first page, i.e. the home page, has a beautiful banner and below there are 8 apps. There is a button below, with which you can go to the next page, i.e. the apps page. A beautiful loading will be shown while going. Here, the total app collection will be shown, each of which will show its picture, how many times it has been downloaded and its rating. And yes, there is a beautiful search bar here, with which you can easily find the required apps. If you do not find it, a beautiful message will be shown. Clicking on download will take you to the details page of that app. Here you can see which company made it, how many times it has been downloaded, how many people have given reviews. Below, how many people have given which stars is shown through a beautiful bar chart. Below are some boring details. But there is an install button above, which when clicked, a beautiful toast message will appear. Go to the installation page and you will see what apps are installed. Here there is an uninstall button which can be used to uninstall easily. And here too, a nice toast message will be given as soon as you uninstall. And here there is another part which can be used to sort by the number of downloads.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Technologies: html,Tailwind CSS, JavaScript, react(react router, react-icons, react-rechart, react-toastify, react-spinner )
