@@ -52,7 +52,7 @@ const Installation = () => {
             <div className='space-y-5'>
                 {
                     installedApps.length === 0 ? (
-                        <p className='text-gray-500 text-center mt-35'> No Apps Installed Yet </p>
+                        <p className='text-gray-500 text-center mt-35 text-5xl opacity-30'> No Apps Installed Yet </p>
                     ) : (
                         installedApps.map(app => (
                             <div key={app.id} className='flex justify-between items-center p-5 rounded-md shadow bg-white'>

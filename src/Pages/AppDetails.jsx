@@ -39,7 +39,6 @@ const AppDetails = () => {
         <div>
             <div className=" rounded-sm shadow-sm p-8 flex flex-col md:flex-row items-center gap-12 md:gap-30 mt-10 mx-15 max-w-8xl">
 
-
             <img
                 src={image}
                 alt="App Logo"
@@ -113,14 +112,14 @@ const AppDetails = () => {
               <XAxis type="number" />
               <YAxis dataKey="name" type="category" width={100} />
               <Tooltip />
-              <Bar dataKey="count" fill="#f97316" barSize={20} radius={[5, 5, 5, 5]} />
+              <Bar dataKey="count" fill="#f97316" barSize={25} radius={[5, 5, 5, 5]} />
             </BarChart>
           </ResponsiveContainer>
         </div>
 
         <div>
-            <h1 className='font-bold text-4xl mt-15 mb-10 mx-15'>Description</h1>
-            <p className='mx-15 text-lg text-justify text-gray-800 '>{description}</p>
+            <h1 className='font-bold text-4xl mt-10 mb-10 mx-15'>Description</h1>
+            <p className='mx-15 text-lg text-justify text-gray-800 mb-15  '>{description}</p>
         </div>
 
         <ToastContainer />
